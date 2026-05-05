@@ -8,11 +8,11 @@ Official writeups for Code & Capture 1.0 challenges. Each folder contains a full
 
 | # | Challenge | Category | Difficulty | Flag |
 |---|-----------|----------|------------|------|
-| 1 | [stringhunt](./reverse-engineering/stringhunt/) | Reverse Engineering | Easy | `CodeandCapture{str1ngs_4nd_3nv_v4rs_101}` |
-| 2 | [dalis_kitchen](./reverse-engineering/dalis_kitchen/) | Reverse Engineering | Medium | `CodeandCapture{d4l1s_surr34l_r3c1p3}` |
-| 3 | [journal_of_the_dead](./forensics/journal_of_the_dead/) | Digital Forensics | Medium-Hard | `CodeandCapture{j0urn4l_0f_th3_d34d_sp34ks}` |
-| 4 | [noise_hunt](./forensics/noise_hunt/) | Forensics / Linux CLI | Easy-Medium | `CodeandCapture{you_mastered_grep_and_regex_in_this_ctf_challenge_d4t4_h1d1ng_7f3a2b}` |
-| 5 | [phase_phantom](./forensics/phase_phantom/) | Forensics / Audio Steganography | Medium | `CodeandCapture{ph4s3_inv3rs10n_r3v34ls_4ll}` |
+| 1 | [stringhunt](./Reverse-Engineering/stringhunt/) | Reverse Engineering | Easy | `CodeandCapture{str1ngs_4nd_3nv_v4rs_101}` |
+| 2 | [dalis_kitchen](./Reverse-Engineering/dalis_kitchen/) | Reverse Engineering | Medium | `CodeandCapture{d4l1s_surr34l_r3c1p3}` |
+| 3 | [journal_of_the_dead](./Forensics/journal_of_the_dead/) | Digital Forensics | Medium-Hard | `CodeandCapture{j0urn4l_0f_th3_d34d_sp34ks}` |
+| 4 | [noise_hunt](./Forensics/noise_hunt/) | Forensics / Linux CLI | Easy-Medium | `CodeandCapture{you_mastered_grep_and_regex_in_this_ctf_challenge_d4t4_h1d1ng_7f3a2b}` |
+| 5 | [phase_phantom](./Forensics/phase_phantom/) | Forensics / Audio Steganography | Medium | `CodeandCapture{ph4s3_inv3rs10n_r3v34ls_4ll}` |
 
 ---
 
